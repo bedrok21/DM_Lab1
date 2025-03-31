@@ -1,0 +1,28 @@
+topic_subreddits:
+  news: [
+    'news', 'worldnews', 'politics', 'TrueReddit', 'AskReddit', 'todayilearned', 'NoStupidQuestions', 'CasualConversation', 'PublicFreakout', 'unpopularopinion'
+  ]
+  science: [
+    'science', 'technology', 'space', 'Futurology', 'biology', 'physics', 'chemistry', 'AskScience', 'DataScience', 'MachineLearning'
+  ]
+  # sports: [
+  #   'soccer', 'NBA', 'NFL', 'baseball', 'hockey', 'MMA', 'boxing', 'cycling', 'running', 'fitness'
+  # ]
+  # education: [
+  #   'learnprogramming', 'learnpython', 'productivity', 'languagelearning', 'selfimprovement', 'GetMotivated', 'explainlikeimfive', 'LifeProTips', 'IAmA', 'YouShouldKnow'
+  # ]
+  # gaming: [
+  #   'gaming', 'pcgaming', 'xbox', 'PS5', 'NintendoSwitch', 'leagueoflegends', 'Minecraft', 'FortniteBR', 'PUBG', 'Valorant'
+  # ]
+  social: [
+    'antiwork', 'socialism', 'conservative', 'Libertarian', 'changemyview', 'TwoXChromosomes', 'MensRights', 'feminism', 'LGBT', 'BlackLivesMatter'
+  ]
+  # hobbies: [
+  #   'woodworking', 'gardening', 'cooking', 'baking', 'DIY', 'photography', 'writing', 'art', 'crafts', 'drawing'
+  # ]
+  finance: [
+    'personalfinance', 'investing', 'wallstreetbets', 'CryptoCurrency', 'stocks', 'FIRE', 'Bitcoin', 'ethereum', 'FinancialIndependence', 'povertyfinance'
+  ]
+  # traveling: [
+  #   'travel', 'backpacking', 'digitalnomad', 'expats', 'japan', 'europe', 'australia', 'canada', 'uktravel', 'UnitedStates'
+  # ]

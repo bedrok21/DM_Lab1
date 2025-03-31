@@ -1,0 +1,13 @@
+subreddits: [
+    'news', 'worldnews', 'politics', 'TrueReddit', 'AskReddit', 'todayilearned', 'NoStupidQuestions', 'CasualConversation', 'PublicFreakout', 'unpopularopinion',
+    'science', 'technology', 'space', 'Futurology', 'biology', 'physics', 'chemistry', 'AskScience', 'DataScience', 'MachineLearning',
+    'funny', 'memes', 'dankmemes', 'wholesomememes', 'adviceanimals', 'BlackPeopleTwitter', 'OldSchoolCool', 'ContagiousLaughter', 'Cringe', 'ATBGE',
+    'soccer', 'NBA', 'NFL', 'baseball', 'hockey', 'MMA', 'boxing', 'cycling', 'running', 'fitness',
+    'learnprogramming', 'learnpython', 'productivity', 'languagelearning', 'selfimprovement', 'GetMotivated', 'explainlikeimfive', 'LifeProTips', 'IAmA', 'YouShouldKnow',
+    'gaming', 'pcgaming', 'xbox', 'PS5', 'NintendoSwitch', 'leagueoflegends', 'Minecraft', 'FortniteBR', 'PUBG', 'Valorant',
+    'antiwork', 'socialism', 'conservative', 'Libertarian', 'changemyview', 'TwoXChromosomes', 'MensRights', 'feminism', 'LGBT', 'BlackLivesMatter',
+    'woodworking', 'gardening', 'cooking', 'baking', 'DIY', 'photography', 'writing', 'art', 'crafts', 'drawing',
+    'personalfinance', 'investing', 'wallstreetbets', 'CryptoCurrency', 'stocks', 'FIRE', 'Bitcoin', 'ethereum', 'FinancialIndependence', 'povertyfinance',
+    'travel', 'backpacking', 'digitalnomad', 'expats', 'japan', 'europe', 'australia', 'canada', 'uktravel', 'UnitedStates'
+]
+posts_num: 1000
